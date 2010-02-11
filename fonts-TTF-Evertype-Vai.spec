@@ -1,5 +1,5 @@
 Summary:	Free TrueType fonts for the Vai script
-Summary(pl.UTF-8):	Wolnodostępne fonty TrueType dla pisma vai
+Summary(pl.UTF-8):	Wolnodostępne fonty TrueType dla pisma wai
 Name:		fonts-TTF-Vai_Slant_Unicode
 Version:	1.0
 Release:	1
